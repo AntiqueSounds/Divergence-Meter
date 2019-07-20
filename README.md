@@ -1,4 +1,4 @@
-# DivergenceMeter
+# Divergence-Meter
 Divergence Meter Software for PIC processors from Tom Titor and Keith Moore
 
 See the build site http://www.mindspring.com/~tomtitor/ for details. 
